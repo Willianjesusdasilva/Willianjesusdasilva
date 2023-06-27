@@ -2,7 +2,7 @@
 
 <h3 align="center"> Back-end Developer</h3>
   <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-  <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+  <script src="https://pyscript.net/alpha/pyscript.js"></script>
 <img src="https://komarev.com/ghpvc/?username=willianjesusdasilva&theme=oldie"/>
 
 
