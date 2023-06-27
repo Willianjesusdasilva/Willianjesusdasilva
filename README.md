@@ -36,6 +36,6 @@
 
 <h2>Badges</h2>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=willianjesusdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=willianjesusdasilva&theme=dark"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=willianjesusdasilva&theme=dark&include_all_commits=true&count_private=true"/>
 
 
