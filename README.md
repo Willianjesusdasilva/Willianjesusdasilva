@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hola, I'm Willian Jesus da Silva</h1>
+<h1 align="center">👋 Hi, I'm Willian Jesus da Silva</h1>
 
 <h3 align="center"> Back-end Developer</h3>
+  <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+  <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 <img src="https://komarev.com/ghpvc/?username=willianjesusdasilva&theme=oldie"/>
 
 
@@ -19,20 +21,7 @@
 <a href="https://www.stackoverflow.com/users/9654309/willian-jesus-da-silva" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676731089/ease-prof/social/stackoverflow-tile_h07xxl.svg" height="40" width="40" alt=stackoverflow/>
 
 <h2>Skills</h2>
-<a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
-<a href="https://www.ruby-lang.org/en/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/ruby_kyqahz.svg" height="40" width="40" alt=Ruby/>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" width="40" alt=HTML5/>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" width="40" alt=CSS3/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
-<a href="https://www.mongodb.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729142/ease-prof/programming%20languages/mongodb-icon-1_j4gilp.svg" height="40" width="40" alt=MongoDB/>
-<a href="https://www.mysql.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729166/ease-prof/programming%20languages/mysql-6_ucn6fm.svg" height="40" width="40" alt=MySQL/>
-<a href="https://www.postgresql.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609816/ease-prof/databases/postgresql_jz4fc4.svg" height="40" width="40" alt=PostgreSQL/>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609813/ease-prof/frameworks/flask_pbtq3y.svg" height="40" width="40" alt=Flask/>
-<a href="https://fastapi.tiangolo.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676620709/ease-prof/frameworks/icon-white_wxexkn.svg" height="40" width="40" alt=Fast API/>
-<a href="https://www.djangoproject.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729849/ease-prof/programming%20languages/django_crewxf.svg" height="40" width="40" alt=Django/>
-<a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
-<a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
-<a href="https://graphql.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729116/ease-prof/programming%20languages/graphql-logo-2_oojic0.svg" height="40" width="40" alt=GraphQL/>
+<div id="skills">
 
 <h2>Badges</h2>
 <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=willianjesusdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
