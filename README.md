@@ -35,7 +35,7 @@
 <a href="https://graphql.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729116/ease-prof/programming%20languages/graphql-logo-2_oojic0.svg" height="40" width="40" alt=GraphQL/>
 
 <h2>Badges</h2>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=willianjesusdasilva&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=willianjesusdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=willianjesusdasilva&theme=dark"/>
 
 
