@@ -49,8 +49,8 @@
 <img src="https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt=Mongodb/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt=Javascript/>
 <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white" alt=Html5/>
-<img src="https://img.shields.io/badge/ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=white" alt=Ruby/>
-<img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white" alt=Python/>
+<img src="https://img.shields.io/badge/polars-%23323330.svg?style=for-the-badge&logo=polars&logoColor=white" alt=Polars/>
+<img src="https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=Pandas/>
 <img src="https://img.shields.io/badge/swagger-%23323330.svg?style=for-the-badge&logo=swagger&logoColor=white" alt=Swagger/>
 <img src="https://img.shields.io/badge/jwt-%23323330.svg?style=for-the-badge&logo=jwt&logoColor=white" alt=Jwt/>
 <img src="https://img.shields.io/badge/elasticsearch-%23323330.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt=Elasticsearch/>
