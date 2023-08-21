@@ -75,8 +75,8 @@
 <img src="https://img.shields.io/badge/ftp-%23323330.svg?style=for-the-badge&logo=ftp&logoColor=white" alt=Ftp/>
 <img src="https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=white" alt=Docker/>
 <img src="https://img.shields.io/badge/dockercompose-%23323330.svg?style=for-the-badge&logo=dockercompose&logoColor=white" alt=Dockercompose/>
-<img src="https://img.shields.io/badge/dockercompose-%23323330.svg?style=for-the-badge&logo=tornado&logoColor=white" alt=Tornado/>
-<img src="https://img.shields.io/badge/dockercompose-%23323330.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt=Streamlit/>
+<img src="https://img.shields.io/badge/tornado-%23323330.svg?style=for-the-badge&logo=tornado&logoColor=white" alt=Tornado/>
+<img src="https://img.shields.io/badge/streamlit-%23323330.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt=Streamlit/>
 
 <h2>Badges</h2>
 <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=willianjesusdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
