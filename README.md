@@ -39,36 +39,47 @@ willian = {
 | 🤖 **IA aplicada** | Algoritmos genéticos, visão computacional e recursos inteligentes orientados a problemas |
 | 🧰 **Ferramentas para devs** | Utilitários locais, scripts e experiências que melhoram fluxos de desenvolvimento |
 
-## Projetos que contam essa história
+## Projetos em destaque
+
+Selecionados após uma revisão dos repositórios autorais, considerando
+**complexidade técnica, maturidade, documentação, testes e utilidade**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Willianjesusdasilva/gpt-profile">gpt-profile</a></h3>
+      <h3>🏆 <a href="https://github.com/Willianjesusdasilva/gpt-profile">gpt-profile</a></h3>
+      <p><strong>Projeto mais maduro • Ferramenta open source</strong></p>
       <p>Gerenciador local e open source de múltiplos perfis para ChatGPT e Codex no Windows.</p>
       <p><strong>O desafio:</strong> alternar sessões preservando cookies, preferências e workspaces, sem enviar credenciais ou telemetria.</p>
-      <p><code>PowerShell</code> <code>Windows</code> <code>CLI</code> <code>Open source</code></p>
+      <p><strong>Sinais de maturidade:</strong> suíte de testes, CI, instalador, desinstalador, changelog, licença, guia de contribuição e política de segurança.</p>
+      <p><code>PowerShell</code> <code>Windows</code> <code>CLI</code> <code>CI</code> <code>Testes</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Willianjesusdasilva/escapalegal">EscapaLegal</a></h3>
+      <h3>🚀 <a href="https://github.com/Willianjesusdasilva/escapalegal">EscapaLegal</a></h3>
+      <p><strong>Produto mais completo • Aplicação publicada</strong></p>
       <p>Aplicativo web mobile-first para verificação orientativa do ruído de escapamentos pelo microfone do celular.</p>
       <p><strong>O desafio:</strong> transformar medição sonora e referências normativas em uma experiência acessível e responsável.</p>
-      <p><code>TypeScript</code> <code>Web Audio</code> <code>Mobile-first</code> <code>GitHub Pages</code></p>
+      <p><strong>Sinais de maturidade:</strong> TypeScript, React, build automatizado, teste de renderização, lint e deploy contínuo no GitHub Pages.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Web Audio</code> <code>CI/CD</code> <code>Mobile-first</code></p>
       <p><a href="https://willianjesusdasilva.github.io/escapalegal/">→ Experimentar o app</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Willianjesusdasilva/rpa_challenge">RPA Challenge</a></h3>
+      <h3>🧪 <a href="https://github.com/Willianjesusdasilva/rpa_challenge">RPA Challenge</a></h3>
+      <p><strong>Maior densidade técnica • Laboratório</strong></p>
       <p>Três desafios progressivos de automação e comunicação segura com APIs.</p>
-      <p><strong>O desafio:</strong> lidar com autenticação, certificados, WebSocket, proof of work e criptografia em uma execução reproduzível com <code>uv</code>.</p>
+      <p><strong>O desafio:</strong> combinar autenticação, certificados PKCS#12, WebSocket assíncrono, proof of work multithread e descriptografia AES.</p>
+      <p><strong>Estágio:</strong> prova de conceito bem documentada; ainda sem testes automatizados ou pipeline de CI.</p>
       <p><code>Python</code> <code>APIs</code> <code>WebSocket</code> <code>Criptografia</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Willianjesusdasilva/genetic-algorithm-solve-maze">Genetic Algorithm Solve Maze</a></h3>
-      <p>Experimento de resolução de labirintos usando evolução e seleção de soluções.</p>
-      <p><strong>O desafio:</strong> representar caminhos, avaliar indivíduos e evoluir resultados com algoritmos genéticos.</p>
-      <p><code>Python</code> <code>Algoritmos genéticos</code> <code>IA</code></p>
+      <h3>🧱 <a href="https://github.com/Willianjesusdasilva/crudnews">CrudNews</a></h3>
+      <p><strong>Projeto full-stack mais estruturado • API</strong></p>
+      <p>CRUD de notícias com persistência em MongoDB e uma API construída com Flask.</p>
+      <p><strong>O desafio:</strong> entregar aplicação, banco e ambiente reproduzível em contêineres, cobrindo o fluxo CRUD com testes de integração.</p>
+      <p><strong>Estágio:</strong> arquitetura completa e testada, mas baseada em dependências antigas que pedem modernização.</p>
+      <p><code>Python</code> <code>Flask</code> <code>MongoDB</code> <code>Docker Compose</code> <code>Pytest</code></p>
     </td>
   </tr>
 </table>
