@@ -65,21 +65,13 @@ Selecionados após uma revisão dos repositórios autorais, considerando
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🧪 <a href="https://github.com/Willianjesusdasilva/rpa_challenge">RPA Challenge</a></h3>
       <p><strong>Maior densidade técnica • Laboratório</strong></p>
       <p>Três desafios progressivos de automação e comunicação segura com APIs.</p>
       <p><strong>O desafio:</strong> combinar autenticação, certificados PKCS#12, WebSocket assíncrono, proof of work multithread e descriptografia AES.</p>
       <p><strong>Estágio:</strong> prova de conceito bem documentada; ainda sem testes automatizados ou pipeline de CI.</p>
       <p><code>Python</code> <code>APIs</code> <code>WebSocket</code> <code>Criptografia</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧱 <a href="https://github.com/Willianjesusdasilva/crudnews">CrudNews</a></h3>
-      <p><strong>Projeto full-stack mais estruturado • API</strong></p>
-      <p>CRUD de notícias com persistência em MongoDB e uma API construída com Flask.</p>
-      <p><strong>O desafio:</strong> entregar aplicação, banco e ambiente reproduzível em contêineres, cobrindo o fluxo CRUD com testes de integração.</p>
-      <p><strong>Estágio:</strong> arquitetura completa e testada, mas baseada em dependências antigas que pedem modernização.</p>
-      <p><code>Python</code> <code>Flask</code> <code>MongoDB</code> <code>Docker Compose</code> <code>Pytest</code></p>
     </td>
   </tr>
 </table>
