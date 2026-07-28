@@ -1,85 +1,79 @@
-<h1 align="center">👋 Hi, I'm Willian Jesus da Silva</h1>
+<div align="center">
 
-<h3 align="center"> Back-end Developer</h3>
+# Olá, eu sou Willian Jesus da Silva 👋
 
-<img src="https://komarev.com/ghpvc/?username=willianjesusdasilva&theme=oldie"/>
+### Desenvolvedor Back-end • Python • Automação • Inteligência Artificial
 
+Construo soluções simples para problemas reais — de APIs e automações a projetos com IA.
 
- - 🌍 I'm based in **Brazil**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-jesus-da-silva/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian140897@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williansilva.py/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCezLZ-Zs-I-e-B-X6KPafNA)
 
-- ✉️ Contact Me At *<u><a href=mailto:willian140897@gmail.com target="_blank">willian140897@gmail.com</a></u>*
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=willianjesusdasilva&color=3776AB&style=flat-square&label=visualiza%C3%A7%C3%B5es)
 
+</div>
 
+## Sobre mim
 
-<h2>Social</h2>
-<a href="https://www.github.com/Willianjesusdasilva" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
-<a href="https://www.linkedin.com/in/willian-jesus-da-silva/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
-<a href="https://www.youtube.com/c//UCezLZ-Zs-I-e-B-X6KPafNA" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730621/ease-prof/social/youtube-icon_dzg0aj.svg" height="40" width="40" alt=youtube/>
-<a href="https://discord.com/users/willianjesus" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730718/ease-prof/social/discord-icon-svgrepo-com_wuyhta.svg" height="40" width="40" alt=discord/>
-<a href="http://www.instagram.com/williansilva.py" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
-<a href="https://www.stackoverflow.com/users/9654309/willian-jesus-da-silva" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676731089/ease-prof/social/stackoverflow-tile_h07xxl.svg" height="40" width="40" alt=stackoverflow/>
+- 🐍 Apaixonado por Python e pelo princípio **KISS — Keep It Simple**
+- 💼 Atualmente na **DOC9**
+- ⚙️ Experiência com desenvolvimento back-end, APIs, RPA e automação de processos
+- 🤖 Interesse em inteligência artificial, visão computacional e ferramentas para desenvolvedores
+- 🌎 Brasil
 
-<h2>Skills</h2>
-<img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white" alt=Python/>
-<img src="https://img.shields.io/badge/opencv-%23323330.svg?style=for-the-badge&logo=opencv&logoColor=white" alt=Opencv/>
-<img src="https://img.shields.io/badge/wxpython-%23323330.svg?style=for-the-badge&logo=wxpython&logoColor=white" alt=Wxpython/>
-<img src="https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt=Sqlite/>
-<img src="https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy&logoColor=white" alt=Numpy/>
-<img src="https://img.shields.io/badge/delphi-%23323330.svg?style=for-the-badge&logo=delphi&logoColor=white" alt=Delphi/>
-<img src="https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=sql&logoColor=white" alt=Sql/>
-<img src="https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white" alt=Django/>
-<img src="https://img.shields.io/badge/gpc-%23323330.svg?style=for-the-badge&logo=gpc&logoColor=white" alt=Gpc/>
-<img src="https://img.shields.io/badge/flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=white" alt=Flask/>
-<img src="https://img.shields.io/badge/ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=white" alt=Ruby/>
-<img src="https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=aws&logoColor=white" alt=Aws/>
-<img src="https://img.shields.io/badge/inkscape-%23323330.svg?style=for-the-badge&logo=inkscape&logoColor=white" alt=Inkscape/>
-<img src="https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white" alt=Linux/>
-<img src="https://img.shields.io/badge/opencv-%23323330.svg?style=for-the-badge&logo=opencv&logoColor=white" alt=Opencv/>
-<img src="https://img.shields.io/badge/machinelearning-%23323330.svg?style=for-the-badge&logo=machinelearning&logoColor=white" alt=Machinelearning/>
-<img src="https://img.shields.io/badge/selenium-%23323330.svg?style=for-the-badge&logo=selenium&logoColor=white" alt=Selenium/>
-<img src="https://img.shields.io/badge/playwright-%23323330.svg?style=for-the-badge&logo=playwright&logoColor=white" alt=Playwright/>
-<img src="https://img.shields.io/badge/rpa-%23323330.svg?style=for-the-badge&logo=rpa&logoColor=white" alt=Rpa/>
-<img src="https://img.shields.io/badge/artificialintelligence-%23323330.svg?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt=Artificialintelligence/>
-<img src="https://img.shields.io/badge/graphql-%23323330.svg?style=for-the-badge&logo=graphql&logoColor=white" alt=Graphql/>
-<img src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white" alt=Git/>
-<img src="https://img.shields.io/badge/postman-%23323330.svg?style=for-the-badge&logo=postman&logoColor=white" alt=Postman/>
-<img src="https://img.shields.io/badge/fastapi-%23323330.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt=Fastapi/>
-<img src="https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt=Postgresql/>
-<img src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white" alt=Mysql/>
-<img src="https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt=Mongodb/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt=Javascript/>
-<img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white" alt=Html5/>
-<img src="https://img.shields.io/badge/polars-%23323330.svg?style=for-the-badge&logo=polars&logoColor=white" alt=Polars/>
-<img src="https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=Pandas/>
-<img src="https://img.shields.io/badge/swagger-%23323330.svg?style=for-the-badge&logo=swagger&logoColor=white" alt=Swagger/>
-<img src="https://img.shields.io/badge/jwt-%23323330.svg?style=for-the-badge&logo=jwt&logoColor=white" alt=Jwt/>
-<img src="https://img.shields.io/badge/elasticsearch-%23323330.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt=Elasticsearch/>
-<img src="https://img.shields.io/badge/regex-%23323330.svg?style=for-the-badge&logo=regex&logoColor=white" alt=Regex/>
-<img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white" alt=Java/>
-<img src="https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=white" alt=Html/>
-<img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=white" alt=Css/>
-<img src="https://img.shields.io/badge/sqlserver-%23323330.svg?style=for-the-badge&logo=sqlserver&logoColor=white" alt=Sqlserver/>
-<img src="https://img.shields.io/badge/oracle-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=white" alt=Oracle/>
-<img src="https://img.shields.io/badge/db2-%23323330.svg?style=for-the-badge&logo=db2&logoColor=white" alt=Db2/>
-<img src="https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt=Postgresql/>
-<img src="https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt=Sqlite/>
-<img src="https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt=Mongodb/>
-<img src="https://img.shields.io/badge/computervision-%23323330.svg?style=for-the-badge&logo=computervision&logoColor=white" alt=Computervision/>
-<img src="https://img.shields.io/badge/nlp-%23323330.svg?style=for-the-badge&logo=nlp&logoColor=white" alt=Nlp/>
-<img src="https://img.shields.io/badge/automation-%23323330.svg?style=for-the-badge&logo=automation&logoColor=white" alt=Automation/>
-<img src="https://img.shields.io/badge/flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=white" alt=Flask/>
-<img src="https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white" alt=Django/>
-<img src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt=Bootstrap/>
-<img src="https://img.shields.io/badge/windows-%23323330.svg?style=for-the-badge&logo=windows&logoColor=white" alt=Windows/>
-<img src="https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white" alt=Linux/>
-<img src="https://img.shields.io/badge/ftp-%23323330.svg?style=for-the-badge&logo=ftp&logoColor=white" alt=Ftp/>
-<img src="https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=white" alt=Docker/>
-<img src="https://img.shields.io/badge/dockercompose-%23323330.svg?style=for-the-badge&logo=dockercompose&logoColor=white" alt=Dockercompose/>
-<img src="https://img.shields.io/badge/tornado-%23323330.svg?style=for-the-badge&logo=tornado&logoColor=white" alt=Tornado/>
-<img src="https://img.shields.io/badge/streamlit-%23323330.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt=Streamlit/>
+## Tecnologias
 
-<h2>Badges</h2>
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=willianjesusdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=willianjesusdasilva&theme=dark&include_all_commits=true&count_private=true"/>
+### Back-end e dados
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+### Automação, IA e ferramentas
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### Front-end
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [gpt-profile](https://github.com/Willianjesusdasilva/gpt-profile) | Gerenciador open source de múltiplos perfis para ChatGPT e Codex no Windows | PowerShell |
+| [Escapa Legal](https://github.com/Willianjesusdasilva/escapalegal) | Teste orientativo de ruído de escapamento usando o celular | TypeScript |
+| [Genetic Algorithm Solve Maze](https://github.com/Willianjesusdasilva/genetic-algorithm-solve-maze) | Resolução de labirintos com algoritmo genético | Python |
+| [RPA Challenge](https://github.com/Willianjesusdasilva/rpa_challenge) | Projeto prático de automação robótica de processos | Python |
+
+## GitHub em números
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Willianjesusdasilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Willian" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianjesusdasilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Willian" />
+</div>
+
+<div align="center">
+
+### Vamos conversar?
+
+Estou sempre aberto a trocar ideias sobre Python, automação, IA e novos projetos.
+
+</div>
