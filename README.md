@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:10253F,100:3776AB&text=Willian%20Jesus%20da%20Silva&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=Software%20que%20resolve%20problemas%20reais&descAlignY=57&animation=fadeIn" alt="Willian Jesus da Silva — Software que resolve problemas reais" />
+# Willian Jesus da Silva
 
-[![Texto animado](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Back-end+%7C+Python+%7C+Automa%C3%A7%C3%A3o;APIs+%7C+RPA+%7C+Intelig%C3%AAncia+Artificial;Keep+It+Simple.)](https://git.io/typing-svg)
+**Back-end · Python · Automação · Inteligência Artificial**
+
+Software simples para resolver problemas reais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-jesus-da-silva/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian140897@gmail.com)
@@ -104,6 +106,27 @@ Selecionados após uma revisão dos repositórios autorais, considerando
 > O perfil reúne **44 projetos autorais**, incluindo **23 em Python**, além de
 > experimentos com JavaScript, TypeScript, PowerShell e Shell.
 
+## Experiência em projetos privados
+
+Nem todo trabalho relevante pode ter código, cliente ou arquitetura publicados.
+Em projetos privados, atuo principalmente nestas frentes:
+
+- **Automação de processos corporativos:** robôs e serviços que substituem
+  tarefas manuais, integram sistemas e tornam rotinas operacionais mais
+  previsíveis.
+- **Integrações e back-end:** APIs, autenticação, processamento assíncrono,
+  persistência e comunicação segura entre aplicações.
+- **Extração e tratamento de dados:** crawlers, validações, normalização e
+  transformação de dados para consumo por sistemas internos.
+- **IA aplicada a produto:** automação de conteúdo e recursos assistidos por IA,
+  incluindo a evolução do **AutoFlow** de automador de publicações para uma
+  plataforma de criação de conteúdo.
+
+> Por confidencialidade, não publico nomes de clientes, dados processados,
+> credenciais, endpoints, diagramas internos ou regras de negócio sensíveis.
+> Posso discutir decisões técnicas e resultados em uma conversa profissional,
+> respeitando esses limites.
+
 ## Minha caixa de ferramentas
 
 <details open>
@@ -150,12 +173,6 @@ Selecionados após uma revisão dos repositórios autorais, considerando
 ## Atividade no GitHub
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições de Willian" src="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/gh-pages/github-contribution-grid-snake.svg">
-</picture>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Willianjesusdasilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de Willian" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianjesusdasilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas por Willian" />
