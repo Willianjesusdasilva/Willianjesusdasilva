@@ -109,7 +109,43 @@ Selecionados após uma revisão dos repositórios autorais, considerando
 
 ## Experiência em projetos privados
 
-### AutoFlow — conteúdo assistido por IA
+### AutoScope OBD — diagnóstico automotivo
+
+Scanner e datalogger local para diagnóstico OBD-II. A aplicação identifica os
+sinais disponibilizados pela ECU, acompanha dados do veículo em tempo real e
+reúne informações como identificação, estado dos monitores, freeze frames e
+códigos de falha.
+
+Também permite comparar leituras realizadas em momentos diferentes, acompanhar
+mudanças nos diagnósticos e registrar sessões de telemetria sem perder os dados
+quando ocorre uma falha temporária de armazenamento. O projeto inclui simulador,
+testes automatizados, dashboards e empacotamento para uso fora do ambiente de
+desenvolvimento.
+
+### QuickMOH — partidas e servidores dedicados
+
+Plataforma para criar e compartilhar salas de *Medal of Honor: Allied Assault*.
+O organizador configura partidas 1x1 ou 5x5, acompanha rounds, placar, kills,
+mortes, pausas, reinícios, troca de lados e histórico de eventos.
+
+Cada partida pode receber um servidor dedicado isolado. Um serviço de telemetria
+acompanha os eventos oficiais do jogo, elimina duplicidades e atualiza placar,
+dano, equipes, vencedores e andamento da partida sem depender de um navegador
+aberto.
+
+### Optimize Remote — otimização consentida do Windows
+
+Ferramenta de atendimento remoto que executa somente otimizações previamente
+cadastradas. O cliente recebe uma sessão temporária, visualiza o que será
+alterado e precisa consentir antes de cada ação; não existe terminal remoto nem
+execução livre de comandos.
+
+Os pacotes são verificados antes da execução, as ações possuem aplicação e
+rollback, e todo o ciclo — criação da sessão, consentimento, envio e resultado —
+fica registrado para auditoria. O operador controla os atendimentos por uma
+interface própria e o cliente precisa apenas do PowerShell.
+
+### AutoFlow — criação de conteúdo com IA
 
 O AutoFlow começou automatizando publicações e evoluiu para uma plataforma de
 criação de conteúdo. O usuário pode partir de modelos prontos, gerar sugestões
