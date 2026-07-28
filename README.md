@@ -133,6 +133,19 @@ acompanha os eventos oficiais do jogo, elimina duplicidades e atualiza placar,
 dano, equipes, vencedores e andamento da partida sem depender de um navegador
 aberto.
 
+### MU — engenharia reversa e automação local
+
+Laboratório de instrumentação de um cliente de jogo no Windows. O projeto lê o
+estado do processo em memória, localiza estruturas que mudam durante a execução
+e acompanha informações como posição, atributos, recursos e entidades próximas
+em uma interface de terminal.
+
+Um conjunto de ferramentas auxilia a investigação: inspeção da árvore de
+janelas, captura do cliente em segundo plano, correlação entre informações
+visuais e memória, diagnóstico de estruturas dinâmicas e testes de navegação. O
+supervisor automatiza ações locais sem tomar o foco do usuário e registra
+mudanças de estado em uma trilha de eventos.
+
 ### Optimize Remote — otimização consentida do Windows
 
 Ferramenta de atendimento remoto que executa somente otimizações previamente
