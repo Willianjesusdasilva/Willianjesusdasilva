@@ -109,40 +109,6 @@ Selecionados após uma revisão dos repositórios autorais, considerando
 
 ## Experiência em projetos privados
 
-Parte do meu trabalho está em sistemas privados. Posso mostrar o tipo de problema
-que eles resolvem sem expor clientes, dados ou detalhes de segurança.
-
-### Plataformas de automação operacional
-
-Sistemas que recebem demandas, validam os dados de entrada e executam etapas que
-antes dependiam de operação manual. Esses fluxos conseguem navegar por sistemas
-autenticados, consultar e atualizar informações, anexar arquivos, sincronizar
-status e encaminhar cada caso para a próxima etapa.
-
-As automações registram o que foi processado, identificam falhas, repetem
-operações recuperáveis e separam exceções que precisam de análise humana. Assim,
-o robô não apenas “clica na tela”: ele acompanha o ciclo completo da tarefa.
-
-### Coleta e organização de dados
-
-Crawlers e serviços agendados que coletam informações de fontes diferentes,
-detectam registros repetidos, normalizam formatos e consolidam o resultado para
-consulta por outras aplicações.
-
-Essas soluções também permitem acompanhar o andamento da coleta, localizar
-itens que falharam e reprocessar apenas o necessário, sem reiniciar todo o fluxo.
-
-### Integrações entre sistemas
-
-APIs e workers que funcionam como ponte entre aplicações que não foram
-originalmente projetadas para conversar. Eles recebem solicitações, validam
-permissões e conteúdo, transformam os dados para o formato esperado pelo destino
-e devolvem um estado rastreável para quem iniciou a operação.
-
-Em tarefas demoradas, o processamento acontece em segundo plano, permitindo
-consultar o progresso e recuperar a execução quando um serviço externo fica
-indisponível.
-
 ### AutoFlow — conteúdo assistido por IA
 
 O AutoFlow começou automatizando publicações e evoluiu para uma plataforma de
