@@ -36,7 +36,7 @@ willian = {
 |---|---|
 | ⚙️ **Automação e RPA** | Crawlers, integrações, rotinas operacionais e ferramentas que eliminam tarefas repetitivas |
 | 🔌 **Back-end e APIs** | Serviços web, autenticação, bancos de dados e comunicação entre sistemas |
-| 🤖 **IA aplicada** | Algoritmos genéticos, visão computacional e recursos inteligentes orientados a problemas |
+| 🤖 **IA aplicada** | Colorização de vídeo, visão computacional e recursos inteligentes orientados a problemas |
 | 🧰 **Ferramentas para devs** | Utilitários locais, scripts e experiências que melhoram fluxos de desenvolvimento |
 
 ## Projetos em destaque
@@ -72,6 +72,31 @@ Selecionados após uma revisão dos repositórios autorais, considerando
       <p><strong>O desafio:</strong> combinar autenticação, certificados PKCS#12, WebSocket assíncrono, proof of work multithread e descriptografia AES.</p>
       <p><strong>Estágio:</strong> prova de conceito bem documentada; ainda sem testes automatizados ou pipeline de CI.</p>
       <p><code>Python</code> <code>APIs</code> <code>WebSocket</code> <code>Criptografia</code></p>
+    </td>
+  </tr>
+</table>
+
+### IA, conteúdo técnico e Linux
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎞️ <a href="https://github.com/Willianjesusdasilva/Video_colorizer">Video Colorizer</a></h3>
+      <p>Pipeline de colorização de vídeos com uma rede neural convolucional.</p>
+      <p>Processa o vídeo quadro a quadro com <strong>OpenCV</strong>, executa o modelo <strong>SIGGRAPH17 em PyTorch/GPU</strong> e usa <strong>MoviePy</strong> para preservar o áudio original na saída.</p>
+      <p><code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>MoviePy</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📖 <a href="https://github.com/Willianjesusdasilva/cookbook">Cookbook de Visão Computacional</a></h3>
+      <p>Material educacional colaborativo criado para introduzir visão computacional por meio de explicações e pequenos projetos.</p>
+      <p>Passa por detecção de bordas, operações morfológicas e filtragem por densidade com machine learning e clusterização.</p>
+      <p><code>OpenCV</code> <code>Visão computacional</code> <code>Machine Learning</code> <code>Conteúdo técnico</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎵 <a href="https://github.com/Willianjesusdasilva/Polybar-component-spotify">Spotify para Polybar</a></h3>
+      <p>Componente autoral para exibir e controlar o Spotify diretamente pela Polybar no Linux.</p>
+      <p>Integra <strong>playerctl</strong>, <strong>zscroll</strong>, hooks IPC e PulseAudio; inclui controles de reprodução, título rolável e mute automático de anúncios.</p>
+      <p><code>Shell</code> <code>Polybar</code> <code>playerctl</code> <code>Linux</code></p>
     </td>
   </tr>
 </table>
