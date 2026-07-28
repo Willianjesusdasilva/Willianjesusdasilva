@@ -7,6 +7,7 @@
 Software simples para resolver problemas reais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-jesus-da-silva/)
+[![Stack Overflow em Português](https://img.shields.io/badge/Stack_Overflow-Perfil-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/110362/willian-jesus-da-silva)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian140897@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@williansilva.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williansilva.py/)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCezLZ-Zs-I-e-B-X6KPafNA)
@@ -195,7 +196,7 @@ Vamos conversar sobre Python, APIs, automação ou IA aplicada.
 
 **[LinkedIn](https://www.linkedin.com/in/willian-jesus-da-silva/) ·
 [E-mail](mailto:willian140897@gmail.com) ·
-[Stack Overflow](https://stackoverflow.com/users/9654309/willian-jesus-da-silva)**
+[Stack Overflow em Português](https://pt.stackoverflow.com/users/110362/willian-jesus-da-silva)**
 
 <sub>“Simplicidade é pré-requisito para confiabilidade.” — Edsger W. Dijkstra</sub>
 
