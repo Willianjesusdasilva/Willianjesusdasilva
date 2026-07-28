@@ -124,9 +124,9 @@ willian = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições de Willian" src="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições de Willian" src="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Willianjesusdasilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de Willian" />
