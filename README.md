@@ -1,79 +1,157 @@
 <div align="center">
 
-# Olá, eu sou Willian Jesus da Silva 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:10253F,100:3776AB&text=Willian%20Jesus%20da%20Silva&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=Software%20que%20resolve%20problemas%20reais&descAlignY=57&animation=fadeIn" alt="Willian Jesus da Silva — Software que resolve problemas reais" />
 
-### Desenvolvedor Back-end • Python • Automação • Inteligência Artificial
+[![Texto animado](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Back-end+%7C+Python+%7C+Automa%C3%A7%C3%A3o;APIs+%7C+RPA+%7C+Intelig%C3%AAncia+Artificial;Keep+It+Simple.)](https://git.io/typing-svg)
 
-Construo soluções simples para problemas reais — de APIs e automações a projetos com IA.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-jesus-da-silva/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian140897@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williansilva.py/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCezLZ-Zs-I-e-B-X6KPafNA)
-
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=willianjesusdasilva&color=3776AB&style=flat-square&label=visualiza%C3%A7%C3%B5es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-jesus-da-silva/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian140897@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@williansilva.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williansilva.py/)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCezLZ-Zs-I-e-B-X6KPafNA)
 
 </div>
 
-## Sobre mim
+## `whoami`
 
-- 🐍 Apaixonado por Python e pelo princípio **KISS — Keep It Simple**
-- 💼 Atualmente na **DOC9**
-- ⚙️ Experiência com desenvolvimento back-end, APIs, RPA e automação de processos
-- 🤖 Interesse em inteligência artificial, visão computacional e ferramentas para desenvolvedores
-- 🌎 Brasil
+Sou desenvolvedor back-end e apaixonado por Python. Gosto de pegar processos
+manuais, integrações difíceis ou ideias experimentais e transformá-los em
+ferramentas que alguém realmente consegue usar.
 
-## Tecnologias
+Meu trabalho passa por **APIs, automação de processos, RPA, dados e IA**. Também
+exploro front-end quando ele é a melhor forma de colocar uma solução nas mãos
+das pessoas. Hoje faço parte da **DOC9**, no Brasil.
 
-### Back-end e dados
+```python
+willian = {
+    "foco": ["back-end", "automação", "IA aplicada"],
+    "linguagem_principal": "Python",
+    "motivacao": "reduzir trabalho repetitivo com software simples",
+    "principio": "KISS — Keep It Simple",
+}
+```
+
+## O que eu construo
+
+| Área | Como aplico |
+|---|---|
+| ⚙️ **Automação e RPA** | Crawlers, integrações, rotinas operacionais e ferramentas que eliminam tarefas repetitivas |
+| 🔌 **Back-end e APIs** | Serviços web, autenticação, bancos de dados e comunicação entre sistemas |
+| 🤖 **IA aplicada** | Algoritmos genéticos, visão computacional e recursos inteligentes orientados a problemas |
+| 🧰 **Ferramentas para devs** | Utilitários locais, scripts e experiências que melhoram fluxos de desenvolvimento |
+
+## Projetos que contam essa história
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Willianjesusdasilva/gpt-profile">gpt-profile</a></h3>
+      <p>Gerenciador local e open source de múltiplos perfis para ChatGPT e Codex no Windows.</p>
+      <p><strong>O desafio:</strong> alternar sessões preservando cookies, preferências e workspaces, sem enviar credenciais ou telemetria.</p>
+      <p><code>PowerShell</code> <code>Windows</code> <code>CLI</code> <code>Open source</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Willianjesusdasilva/escapalegal">EscapaLegal</a></h3>
+      <p>Aplicativo web mobile-first para verificação orientativa do ruído de escapamentos pelo microfone do celular.</p>
+      <p><strong>O desafio:</strong> transformar medição sonora e referências normativas em uma experiência acessível e responsável.</p>
+      <p><code>TypeScript</code> <code>Web Audio</code> <code>Mobile-first</code> <code>GitHub Pages</code></p>
+      <p><a href="https://willianjesusdasilva.github.io/escapalegal/">→ Experimentar o app</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Willianjesusdasilva/rpa_challenge">RPA Challenge</a></h3>
+      <p>Três desafios progressivos de automação e comunicação segura com APIs.</p>
+      <p><strong>O desafio:</strong> lidar com autenticação, certificados, WebSocket, proof of work e criptografia em uma execução reproduzível com <code>uv</code>.</p>
+      <p><code>Python</code> <code>APIs</code> <code>WebSocket</code> <code>Criptografia</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Willianjesusdasilva/genetic-algorithm-solve-maze">Genetic Algorithm Solve Maze</a></h3>
+      <p>Experimento de resolução de labirintos usando evolução e seleção de soluções.</p>
+      <p><strong>O desafio:</strong> representar caminhos, avaliar indivíduos e evoluir resultados com algoritmos genéticos.</p>
+      <p><code>Python</code> <code>Algoritmos genéticos</code> <code>IA</code></p>
+    </td>
+  </tr>
+</table>
+
+> O perfil reúne **44 projetos autorais**, incluindo **23 em Python**, além de
+> experimentos com JavaScript, TypeScript, PowerShell e Shell.
+
+## Minha caixa de ferramentas
+
+<details open>
+<summary><strong>Back-end e APIs</strong></summary>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Dados, automação e IA</strong></summary>
+<br>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Automação, IA e ferramentas
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Plataforma e produto</strong></summary>
+<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-### Front-end
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Projetos em destaque
+</details>
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [gpt-profile](https://github.com/Willianjesusdasilva/gpt-profile) | Gerenciador open source de múltiplos perfis para ChatGPT e Codex no Windows | PowerShell |
-| [Escapa Legal](https://github.com/Willianjesusdasilva/escapalegal) | Teste orientativo de ruído de escapamento usando o celular | TypeScript |
-| [Genetic Algorithm Solve Maze](https://github.com/Willianjesusdasilva/genetic-algorithm-solve-maze) | Resolução de labirintos com algoritmo genético | Python |
-| [RPA Challenge](https://github.com/Willianjesusdasilva/rpa_challenge) | Projeto prático de automação robótica de processos | Python |
-
-## GitHub em números
+## Atividade no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Willianjesusdasilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Willian" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianjesusdasilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Willian" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições de Willian" src="https://raw.githubusercontent.com/Willianjesusdasilva/Willianjesusdasilva/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Willianjesusdasilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de Willian" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianjesusdasilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas por Willian" />
+
+<br>
+
+![Seguidores](https://img.shields.io/github/followers/Willianjesusdasilva?style=flat-square&logo=github&label=seguidores)
+![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios_p%C3%BAblicos-61-3776AB?style=flat-square&logo=github)
+![Visualizações](https://komarev.com/ghpvc/?username=willianjesusdasilva&color=3776AB&style=flat-square&label=visualiza%C3%A7%C3%B5es)
+
 </div>
 
+---
+
 <div align="center">
 
-### Vamos conversar?
+### Tem um problema interessante para automatizar?
 
-Estou sempre aberto a trocar ideias sobre Python, automação, IA e novos projetos.
+Vamos conversar sobre Python, APIs, automação ou IA aplicada.
+
+**[LinkedIn](https://www.linkedin.com/in/willian-jesus-da-silva/) ·
+[E-mail](mailto:willian140897@gmail.com) ·
+[Stack Overflow](https://stackoverflow.com/users/9654309/willian-jesus-da-silva)**
+
+<sub>“Simplicidade é pré-requisito para confiabilidade.” — Edsger W. Dijkstra</sub>
 
 </div>
