@@ -109,24 +109,54 @@ Selecionados após uma revisão dos repositórios autorais, considerando
 
 ## Experiência em projetos privados
 
-Nem todo trabalho relevante pode ter código, cliente ou arquitetura publicados.
-Em projetos privados, atuo principalmente nestas frentes:
+Parte do meu trabalho está em sistemas privados. Posso mostrar o tipo de problema
+que eles resolvem sem expor clientes, dados ou detalhes de segurança.
 
-- **Automação de processos corporativos:** robôs e serviços que substituem
-  tarefas manuais, integram sistemas e tornam rotinas operacionais mais
-  previsíveis.
-- **Integrações e back-end:** APIs, autenticação, processamento assíncrono,
-  persistência e comunicação segura entre aplicações.
-- **Extração e tratamento de dados:** crawlers, validações, normalização e
-  transformação de dados para consumo por sistemas internos.
-- **IA aplicada a produto:** automação de conteúdo e recursos assistidos por IA,
-  incluindo a evolução do **AutoFlow** de automador de publicações para uma
-  plataforma de criação de conteúdo.
+### Plataformas de automação operacional
 
-> Por confidencialidade, não publico nomes de clientes, dados processados,
-> credenciais, endpoints, diagramas internos ou regras de negócio sensíveis.
-> Posso discutir decisões técnicas e resultados em uma conversa profissional,
-> respeitando esses limites.
+Sistemas que recebem demandas, validam os dados de entrada e executam etapas que
+antes dependiam de operação manual. Esses fluxos conseguem navegar por sistemas
+autenticados, consultar e atualizar informações, anexar arquivos, sincronizar
+status e encaminhar cada caso para a próxima etapa.
+
+As automações registram o que foi processado, identificam falhas, repetem
+operações recuperáveis e separam exceções que precisam de análise humana. Assim,
+o robô não apenas “clica na tela”: ele acompanha o ciclo completo da tarefa.
+
+### Coleta e organização de dados
+
+Crawlers e serviços agendados que coletam informações de fontes diferentes,
+detectam registros repetidos, normalizam formatos e consolidam o resultado para
+consulta por outras aplicações.
+
+Essas soluções também permitem acompanhar o andamento da coleta, localizar
+itens que falharam e reprocessar apenas o necessário, sem reiniciar todo o fluxo.
+
+### Integrações entre sistemas
+
+APIs e workers que funcionam como ponte entre aplicações que não foram
+originalmente projetadas para conversar. Eles recebem solicitações, validam
+permissões e conteúdo, transformam os dados para o formato esperado pelo destino
+e devolvem um estado rastreável para quem iniciou a operação.
+
+Em tarefas demoradas, o processamento acontece em segundo plano, permitindo
+consultar o progresso e recuperar a execução quando um serviço externo fica
+indisponível.
+
+### AutoFlow — conteúdo assistido por IA
+
+O AutoFlow começou automatizando publicações e evoluiu para uma plataforma de
+criação de conteúdo. O usuário pode partir de modelos prontos, gerar sugestões
+de texto com IA, adaptar o conteúdo ao seu negócio e preparar materiais para
+redes sociais em um fluxo único.
+
+O objetivo é reduzir o caminho entre a ideia e a publicação, sem exigir que o
+usuário domine ferramentas de design, automação ou inteligência artificial.
+
+> Detalhes como clientes, volumes, dados processados, endpoints, credenciais,
+> diagramas internos e regras de negócio permanecem confidenciais. Em uma
+> conversa profissional, posso aprofundar decisões técnicas e resultados dentro
+> desses limites.
 
 ## Minha caixa de ferramentas
 
